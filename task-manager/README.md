@@ -12,3 +12,5 @@ function add(a, b) {
 | :-------: | :-------------------------: |
 | `create`  |   this creates a new task   |
 |  `edit`   | this edits an existing task |
+|  `list`   |       lists all tasks       |
+| `delete`  |     delete a task by ID     |
