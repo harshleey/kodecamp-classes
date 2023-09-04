@@ -7,3 +7,8 @@ function add(a, b) {
   return a + b;
 }
 ```
+
+| functions |         operations          |
+| :-------: | :-------------------------: |
+| `create`  |   this creates a new task   |
+|  `edit`   | this edits an existing task |
