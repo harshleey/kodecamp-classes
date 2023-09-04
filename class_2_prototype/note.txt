@@ -1,0 +1,19 @@
+PROTOTYPAL INHERITANCE
+This is a type of inheritance mechanism in javascript where objects can inherit properties and methods directly from other objects.
+
+Objects are created by reference and not by value
+
+What distinguishes a constructor from other functions is that the name starts with a capital letter
+
+There are data properties and accessor properties
+
+prototypes with constructors is simply combining constructors with prototypes and adding methods and data types. How you modify your object and want them to behave.
+
+
+FUNCTIONAL PROGRAMMING
+This is a programming paradigm that emphasizes writing programs using pure functions and avoiding mutable data and side effects.
+
+* Pure functions: Do not change the initial data
+* Immutability: Copy a value and make changes to it
+* Higher-order functions
+* Recursion

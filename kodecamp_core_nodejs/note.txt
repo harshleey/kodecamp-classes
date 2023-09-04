@@ -1,0 +1,15 @@
+NODEJS PHILOSOPHY
+1. SMALL CORE: This means that nodejs core is built with few principles and one of this principle is "having the smallest set of functionality". It leaves the rest to the user space.
+
+The user space is the ecosystem of the module living outside of the core
+
+2. SMALL MODULE: Nodejs uses the concept of a module as a functional means to structure the code of a program. It is the foundation of creating reusable libraries.
+
+This principle has its root in the UNIX operating sysytem. Small is beautiful and make each program do one thing well. DRY (Don't Repeat Yourself) is well implemented.
+
+3. SMALL SURFACE AREA: This deals with the exposure of logic.
+
+4. SIMPLICITY AND PRAGMATISM: Keep it simple
+
+
+
